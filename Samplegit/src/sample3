@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+   <title> IMAGE </title>
+   <style>
+    body{
+        background-color: lightyellow;
+       }
+       img{
+           float: left;
+           margin-left: auto;
+           margin-bottom: auto;
+           width: 200px;
+           height: 200px;
+       }
+       p{
+           border: 5px solid black;
+           margin: 10px 300px 100px 10px;
+       }
+    </style>
+</head>
+<body>
+    <h4>Neha <br>1602-17-737-086 </h4>
+    <p><img src="huskey.jpg" alt="huskey">
+        There are two puppies in the picture<br><br><br>
+        They belong to huskey breed<br><br><br>
+        Both of Them are sleeping<br><br><br>
+        They generally live in cold places<br><br>
+        
+    </p>
+</body>
+</html>
